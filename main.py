@@ -5,14 +5,13 @@ def pathPlan():
     yLeft1 = 10
     xRight1 = 20
     yRight1 = 10
-    # (xLeft1,yLeft1) = (35,32) and (xRight1, yRight1) = (50,32) are left and right cones of the previous iteration respectively
+    # (xLeft1,yLeft1) = (10,10) and (xRight1, yRight1) = (20,10) are left and right cones of the previous iteration respectively
 
     #inputs for straight path
     xLeft2 = 10
     yLeft2 = 30
     xRight2 = 20
     yRight2 = 30
-    # (xLeft2,yLeft2) = (32,43) and (xRight2, yRight2) = (45,51) are the input topView coordinates from myBox.
 
     #inputs for right curved path
     #xLeft2 = 15
