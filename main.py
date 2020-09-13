@@ -1,7 +1,3 @@
-import numpy as np
-from numpy.linalg import inv
-import matplotlib.pyplot as plt
-import math
 
 def pathPlan():
     #top view coordinates of previous pair of cones
